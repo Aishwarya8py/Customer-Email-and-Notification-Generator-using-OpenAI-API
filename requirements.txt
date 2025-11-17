@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit==1.32.2
+pandas==2.2.1
+
+# OpenAI – latest SDK with `OpenAI` class
+openai>=1.17.0
+
+# Google Gemini
+google-generativeai>=0.3.2
+
+# Anthropic Claude
+anthropic>=0.25.0
+
+# Optional: For CSV encoding & misc
+python-dotenv>=1.0.0
